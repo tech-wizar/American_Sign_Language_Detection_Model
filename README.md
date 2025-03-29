@@ -4,12 +4,12 @@ merican Sign Detection Model is a deep learning-based system designed to recogni
 
 
 
-All libraries to install 
-cv2 (OpenCV)
-mediapipe
-numpy
-os
-pickle
-sklearn.ensemble
-sklearn.metrics
-sklearn.model_selection
+All libraries to install - 
+cv2 (OpenCV),
+mediapipe,
+numpy,
+os,
+pickle,
+sklearn.ensemble,
+sklearn.metrics,
+sklearn.model_selection.
