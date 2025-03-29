@@ -2,7 +2,7 @@ import os
 import cv2
 
 # Define the new data directory path
-DATA_DIR = r"C:\Users\user\Downloads\advanaced_data"
+DATA_DIR = r"C:\Users\user\Downloads\ASL_dataset"
 
 # Create the main data directory if it doesn't exist
 if not os.path.exists(DATA_DIR):
